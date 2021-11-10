@@ -11,6 +11,7 @@ def test_calculator_division_static():
     mynumbers = (3.0,3.0)
 
     division = Division(mynumbers)
+    return division
 
     #Act
 
