@@ -3,4 +3,3 @@ pytest
 pycodestyle
 pytest-pylint
 pandas
-numpy==1.21.4Y

@@ -8,7 +8,6 @@ def clear_history_fixture():
     """define a function that will run each time you pass it to a test, it is called a fixture"""
     Calculations.clear_history()
 
-    d
 def test_calculator_add_static(clear_history_fixture):
     """testing the addition method"""
 
